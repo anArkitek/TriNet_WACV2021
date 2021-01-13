@@ -3,7 +3,8 @@
 ## Citation
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
 
-> @InProceedings{Cao_2021_WACV,
+```
+@InProceedings{Cao_2021_WACV,
     author    = {Cao, Zhiwen and Chu, Zongcheng and Liu, Dongfang and Chen, Yingjie},
     title     = {A Vector-Based Representation to Enhance Head Pose Estimation},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
@@ -11,6 +12,7 @@ If you find the code useful, please consider citing our paper using the followin
     year      = {2021},
     pages     = {1188-1197}
 }
+```
 
 ## Paper
 https://openaccess.thecvf.com/content/WACV2021/html/Chu_A_Vector-Based_Representation_to_Enhance_Head_Pose_Estimation_WACV_2021_paper.html
